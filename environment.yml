@@ -12,6 +12,7 @@ dependencies:
   - mpi4py
   - networkx
   - pandas
+  - pydot
   - scikit-image
   - scikit-learn
   - sympy
