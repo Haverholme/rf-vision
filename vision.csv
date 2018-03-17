@@ -1,0 +1,35 @@
+IMPORTANCE,TYPE DE PRODUIT,MATERIAU OPAQUE,MATERIAU TRANSLUCIDE,MATERIAU TRANSPARENT,REFLECHISSANT,RUGOSITE,SURFACE,TYPE DE GEOMETRIE,PLIS,FLAP,COULEUR
+H,Emballage,Partiellement,Partiellement,Partiellement,Oui,Lisse,Irrégulière,Alvéolé,Non,Non,Or
+H,Emballage,Partiellement,Partiellement,Partiellement,Oui,Lisse,Irrégulière,Alvéolé,Non,Non,Argent
+M,Emballage,Totalement,Non,Non,Oui,Lisse,Irrégulière,Convexe,Oui,Oui,Métallisé
+H,Emballage,Totalement,Non,Non,Partiellement,Lisse,Irrégulière,Convexe,Oui,Oui,Blanc
+H,Emballé,Totalement,Non,Non,Non,Rugueux,Irrégulière,Convexe,Non,Non,Brun
+H,Emballage,Non,Non,Totalement,Partiellement,Lisse,Irrégulière,Convexe,Oui,Oui,Aucune
+H,Emballé,Totalement,Non,Non,Oui/Non,Lisse,Irrégulière,Aléatoire,Non,Oui/Non,Multicouleur
+H,Emballage,Non,Non,Totalement,Partiellement,Lisse,Irrégulière,Convexe,Oui,Oui,Aucune
+M,Emballage,Totalement,Non,Non,Non,Lisse,Régulière,Plat,Non,Oui,Multicouleur
+M,Emballage,Totalement,Non,Non,Oui,Lisse,Régulière,Plat,Non,Non,Or
+H,Emballage,Totalement,Non,Non,Partiellement,Lisse,Régulière,Plat,Non,Oui,Multicouleur
+H,Nu,Totalement,Non,Non,Non,Rugueux,Irrégulière,Plat,Non,Non,Brun et noir
+H,Nu,Partiellement,Partiellement,Non,Non,Rugueux,Irrégulière,Plat,Non,Non,Blanc
+H,Emballage,Totalement,Non,Non,Partiellement,Lisse,Régulière,Plat,Non,Oui,Multicouleur
+H,Nu,Totalement,Non,Non,Non,Rugueux,Régulière,Plat,Non,Non,Beige
+M,Emballage,Totalement,Non,Non,Oui,Lisse,Irrégulière,Aléatoire,Oui,Oui,Multicouleur
+L,Nu,Partiellement,Partiellement,Non,Non,Rugueux,Irrégulière,Plat,Non,Non,Orange
+L,Emballage,Totalement,Non,Non,Non,Lisse,Régulière,Plat,Non,Non,Multicouleur
+H,Nu,Totalement,Non,Non,Non,Lisse et rugueux,Irrégulière,Plat,Non,Non,"Beige, brun"
+M,Emballage,Partiellement,Partiellement,Partiellement,Partiellement,Lisse,Irrégulière,Aléatoire,Non,Oui,Multicouleur
+L,Nu,Totalement,Non,Non,Non,Rugueux,Régulière,Convexe,Non,Non,Brun
+H,Emballage,Partiellement,Non,Partiellement,Partiellement,Lisse,Irrégulière,Aléatoire,Oui,Oui,"Rouge, jaune, vert"
+L,Nu,Partiellement,Partiellement,Non,Non,Rugueux,Régulière,Plat,Non,Non,"Rouge, jaune"
+H,Emballage,Totalement,Non,Non,Partiellement,Lisse,Régulière,Plat,Non,Oui,Multicouleur
+H,Nu,Totalement,Non,Non,Non,Rugueux,Régulière,Plat,Non,Non,Beige
+H,Emballage,Totalement,Non,Non,Partiellement,Lisse,Régulière,Convexe (cylindre),Non,Oui,"Bleu, blanc, noir…"
+H,Nu,Totalement,Non,Non,Non,Rugueux,Régulière,Plat,Non,Non,Noir
+L,Emballage,Totalement,Non,Non,Partiellement,Lisse,Régulière,Convexe,Non,Non,Blanc
+L,Emballage,Totalement,Non,Non,Oui,Lisse,Régulière,Plat,Non,Non,Rouge métallisé
+H,Nu,Totalement,Non,Non,Non,Lisse / rugueux,Irrégulière,Plat,Non,Non,"Blanc, beige, brun, blanc"
+H,Emballage,Totalement,Non,Non,Partiellement,Lisse,Irrégulière,Alvéolé,Non,Non,Brun
+H,Emballage,Totalement,Non,Non,Partiellement,Lisse / rugueux,Régulière,Plat / convexe,Non,Non,Argenté
+H,Nu,Totalement,Non,Non,Partiellement,Lisse,Régulière,Plat / convexe,Non,Non,"Brun, beige"
+H,Emballage,Partiellement,Partiellement,Non,Partiellement,Lisse,Irrégulière,Alvéolé,Non,Non,Argent
